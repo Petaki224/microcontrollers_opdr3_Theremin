@@ -8,3 +8,4 @@ int main(void){
 }
 
 // De git werkt!! xx Lennart 18/10/2024 15:03
+// Dat is heel mooi XOXO Daan 28/10/2024 10:06
